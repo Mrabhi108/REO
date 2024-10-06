@@ -1,4 +1,4 @@
-#HEADSHOT_BOT2
+#TENCENTTFATHER
 import os
 import telebot
 import json
@@ -19,7 +19,7 @@ loop = asyncio.get_event_loop()
 
 TOKEN = '7839526953:AAF-_JmeGKjFaOtOXO4U8j4Uw_avbWFkbFc'
 CHANNEL_ID = -1002168051594
-ADMIN_ID = -1002168051594
+ADMIN_ID = 6819117533
 error_channel_id = -1002168051594
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
